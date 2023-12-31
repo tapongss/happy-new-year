@@ -9,7 +9,7 @@
 <body>
     <section>
         <div>
-            <h2>24</h2>
+            <h2>2024</h2>
         </div>
     </section>
     <section>
