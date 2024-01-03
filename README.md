@@ -25,7 +25,6 @@ May this year be a chapter filled with happiness, succes, and love. Thank you fo
    </div>
    <div class="space"></div>
    <audio controls autoplay>
-     <source src="hbd.mp3" type="audio/mp3"> Your browser does not support the audio element.
    </audio>
    <script src="script.js"></script>
   </div>
