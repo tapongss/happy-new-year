@@ -26,7 +26,6 @@ May this year be a chapter filled with happiness, succes, and love. Thank you fo
    <div class="space"></div>
    <audio controls autoplay>
    </audio>
-   <script src="script.js"></script>
   </div>
  </body>
 </html>
