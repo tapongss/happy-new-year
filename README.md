@@ -1,31 +1,53 @@
-<!doctype html>
-<html lang="en">
-  <head>
-   <meta charset="UTF-8">
-   <little>Happy Birthday</little>
-   <link rel="stylesheet" href="style.css">
-  <head>
-  <body>
-    <div class="card">
-     <img src="https://github.com/DzarelDeveloper/Img/blob/main/ulangtahun.jpg?raw=true"
-alt="birthday" class="birthday">
-    <div class="text">
-     <h1>Hi Jeli!</h1>
-     <p>Happy special birthday! Today is the day to celebrate your extraordinary existence.
-In the journey of life, I am grateful to have you by my side.
-<br><br>
-Between seas, galaxies, and moons, I was lucky I stepped on the same land, I dreamed under the same stars as you.
-<br><br>
-We've traversed oceans of memories, ventured through galaxies of experiences, and basked beneath the beauty of moons together. I feel incredibly fortunate to share unforgettable adventures with you.
-<br><br>
-Every step we take together is a part of the journey that shapes our unique story. Your smile Illuminates each day, adding warmth to the surroundings.
-<br><br>
-May this year be a chapter filled with happiness, succes, and love. Thank you for being a part of my life's story. Happy birthday, and may each of your days be filled with extraordinary joy and achievments! <3 <!p>
-    <p class="muted">- Tavi</p>
-   </div>
-   <div class="space"></div>
-   <audio controls autoplay>
-   </audio>
-  </div>
- </body>
+<html>
+<head>
+<title> For You </title>
+<style>
+   body {
+    background-color: #7b8486;
+   }
+</style>
+
+<script type="text/javascript">
+flag=1
+function f1()
+{
+    alert("Nah gitu dong mmmwuah <3")
+}
+function f()
+{
+    if(flag==1)
+        {
+            Bn.style.top=400
+            Bn.style.left=300
+            flag=2
+        }
+    else if(flag==2)
+        {
+            Bn.style.top=400
+            Bn.style.left=50
+            flag=3
+        }
+    else if(flag==3)
+        {
+            Bn.style.top=370
+            Bn.style.left=166
+            flag=1
+        }
+}
+</script>
+
+</head>
+<body>
+<h1 align="center"> Kamu jangan marah ya? <h1>
+<img alt="EvilicaCell" src="https://i.pinimg.com/originals/c4/a8/bb/c4a8bbccd39e2279cd1519b8e3ed42f7.gif" height="200" style="display:block; margin:auto;" />
+<h1 align="center">Maafin aku yaa...</h1>
+<div id="By" style="position:absolute; left:64px; top:370px; width:210px;
+height:210px;">
+<input type="button" value=" IYA " onClick="f1()" />
+</div>
+<div ID="Bn" style="position:absolute; left:166px; top:370px; width:210px; height:210px;">
+<input type="button" value=" GA " onMouseOver="f()" />
+</div>
+
+</body>
 </html>
